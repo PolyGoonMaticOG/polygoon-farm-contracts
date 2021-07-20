@@ -1,4 +1,4 @@
-# PolyGoon Farming COntracts
+# PolyGoon Farming Contracts
 
 https://polygoon.finance. Feel free to read the code.
 
